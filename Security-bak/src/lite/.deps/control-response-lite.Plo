@@ -1,0 +1,111 @@
+src/lite/control-response-lite.lo: src/lite/control-response-lite.cpp \
+ /usr/include/stdc-predef.h src/lite/../c/control-response.h \
+ include/ndn-cpp/c/control-response-types.h \
+ include/ndn-cpp/c/control-parameters-types.h include/ndn-cpp/c/common.h \
+ include/ndn-cpp/c/../ndn-cpp-config.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h /usr/include/stdint.h \
+ /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
+ include/ndn-cpp/c/name-types.h include/ndn-cpp/c/util/blob-types.h \
+ include/ndn-cpp/c/util/../common.h include/ndn-cpp/c/forwarding-flags.h \
+ src/lite/../c/control-parameters.h \
+ include/ndn-cpp/c/control-parameters-types.h \
+ src/lite/../c/forwarding-flags-impl.h \
+ include/ndn-cpp/c/forwarding-flags.h src/lite/../c/name.h \
+ include/ndn-cpp/c/name-types.h include/ndn-cpp/c/errors.h \
+ src/lite/../c/util/blob.h include/ndn-cpp/c/util/blob-types.h \
+ include/ndn-cpp/lite/control-response-lite.hpp \
+ include/ndn-cpp/lite/control-parameters-lite.hpp \
+ include/ndn-cpp/lite/common-lite.hpp include/ndn-cpp/lite/name-lite.hpp \
+ include/ndn-cpp/lite/../c/errors.h \
+ include/ndn-cpp/lite/util/blob-lite.hpp \
+ include/ndn-cpp/lite/util/../../c/util/blob-types.h \
+ include/ndn-cpp/lite/../c/name-types.h \
+ include/ndn-cpp/lite/forwarding-flags-lite.hpp \
+ include/ndn-cpp/lite/../c/forwarding-flags.h \
+ include/ndn-cpp/lite/../c/control-parameters-types.h \
+ include/ndn-cpp/lite/../c/control-response-types.h
+
+/usr/include/stdc-predef.h:
+
+src/lite/../c/control-response.h:
+
+include/ndn-cpp/c/control-response-types.h:
+
+include/ndn-cpp/c/control-parameters-types.h:
+
+include/ndn-cpp/c/common.h:
+
+include/ndn-cpp/c/../ndn-cpp-config.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/include/x86_64-linux-gnu/bits/wchar.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
+
+include/ndn-cpp/c/name-types.h:
+
+include/ndn-cpp/c/util/blob-types.h:
+
+include/ndn-cpp/c/util/../common.h:
+
+include/ndn-cpp/c/forwarding-flags.h:
+
+src/lite/../c/control-parameters.h:
+
+include/ndn-cpp/c/control-parameters-types.h:
+
+src/lite/../c/forwarding-flags-impl.h:
+
+include/ndn-cpp/c/forwarding-flags.h:
+
+src/lite/../c/name.h:
+
+include/ndn-cpp/c/name-types.h:
+
+include/ndn-cpp/c/errors.h:
+
+src/lite/../c/util/blob.h:
+
+include/ndn-cpp/c/util/blob-types.h:
+
+include/ndn-cpp/lite/control-response-lite.hpp:
+
+include/ndn-cpp/lite/control-parameters-lite.hpp:
+
+include/ndn-cpp/lite/common-lite.hpp:
+
+include/ndn-cpp/lite/name-lite.hpp:
+
+include/ndn-cpp/lite/../c/errors.h:
+
+include/ndn-cpp/lite/util/blob-lite.hpp:
+
+include/ndn-cpp/lite/util/../../c/util/blob-types.h:
+
+include/ndn-cpp/lite/../c/name-types.h:
+
+include/ndn-cpp/lite/forwarding-flags-lite.hpp:
+
+include/ndn-cpp/lite/../c/forwarding-flags.h:
+
+include/ndn-cpp/lite/../c/control-parameters-types.h:
+
+include/ndn-cpp/lite/../c/control-response-types.h:

@@ -1,0 +1,212 @@
+src/lite/encoding/tlv-0_2-wire-format-lite.lo: \
+ src/lite/encoding/tlv-0_2-wire-format-lite.cpp \
+ /usr/include/stdc-predef.h \
+ src/lite/encoding/../../c/encoding/tlv-0_2-wire-format.h \
+ include/ndn-cpp/c/common.h include/ndn-cpp/c/../ndn-cpp-config.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h /usr/include/stdint.h \
+ /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
+ include/ndn-cpp/c/errors.h \
+ include/ndn-cpp/lite/encoding/tlv-0_2-wire-format-lite.hpp \
+ include/ndn-cpp/lite/encoding/../interest-lite.hpp \
+ include/ndn-cpp/lite/encoding/../common-lite.hpp \
+ include/ndn-cpp/lite/encoding/../exclude-lite.hpp \
+ include/ndn-cpp/lite/encoding/../name-lite.hpp \
+ include/ndn-cpp/lite/encoding/../../c/errors.h \
+ include/ndn-cpp/lite/encoding/../util/blob-lite.hpp \
+ include/ndn-cpp/lite/encoding/../util/../../c/util/blob-types.h \
+ include/ndn-cpp/lite/encoding/../util/../../c/util/../common.h \
+ include/ndn-cpp/lite/encoding/../../c/name-types.h \
+ include/ndn-cpp/lite/encoding/../../c/util/blob-types.h \
+ include/ndn-cpp/lite/encoding/../../c/interest-types.h \
+ include/ndn-cpp/lite/encoding/../../c/name-types.h \
+ include/ndn-cpp/lite/encoding/../../c/key-types.h \
+ include/ndn-cpp/lite/encoding/../key-locator-lite.hpp \
+ include/ndn-cpp/lite/encoding/../../c/key-types.h \
+ include/ndn-cpp/lite/encoding/../data-lite.hpp \
+ include/ndn-cpp/lite/encoding/../meta-info-lite.hpp \
+ include/ndn-cpp/lite/encoding/../../c/data-types.h \
+ include/ndn-cpp/lite/encoding/../../c/security/validity-period-types.h \
+ include/ndn-cpp/lite/encoding/../../c/security/../common.h \
+ include/ndn-cpp/lite/encoding/../signature-lite.hpp \
+ include/ndn-cpp/lite/encoding/../security/validity-period-lite.hpp \
+ include/ndn-cpp/lite/encoding/../security/../../c/security/validity-period-types.h \
+ include/ndn-cpp/lite/encoding/../signature-lite.hpp \
+ include/ndn-cpp/lite/encoding/../control-parameters-lite.hpp \
+ include/ndn-cpp/lite/encoding/../forwarding-flags-lite.hpp \
+ include/ndn-cpp/lite/encoding/../../c/forwarding-flags.h \
+ include/ndn-cpp/lite/encoding/../../c/control-parameters-types.h \
+ include/ndn-cpp/lite/encoding/../../c/common.h \
+ include/ndn-cpp/lite/encoding/../../c/forwarding-flags.h \
+ include/ndn-cpp/lite/encoding/../control-response-lite.hpp \
+ include/ndn-cpp/lite/encoding/../control-parameters-lite.hpp \
+ include/ndn-cpp/lite/encoding/../../c/control-response-types.h \
+ include/ndn-cpp/lite/encoding/../../c/control-parameters-types.h \
+ include/ndn-cpp/lite/encoding/../lp/lp-packet-lite.hpp \
+ include/ndn-cpp/lite/encoding/../lp/../util/blob-lite.hpp \
+ include/ndn-cpp/lite/encoding/../lp/incoming-face-id-lite.hpp \
+ include/ndn-cpp/lite/encoding/../lp/../../c/lp/incoming-face-id-types.h \
+ include/ndn-cpp/lite/encoding/../lp/../../c/lp/../common.h \
+ include/ndn-cpp/lite/encoding/../lp/../network-nack-lite.hpp \
+ include/ndn-cpp/lite/encoding/../lp/../../c/network-nack-types.h \
+ include/ndn-cpp/lite/encoding/../lp/../../c/lp/lp-packet-types.h \
+ include/ndn-cpp/lite/encoding/../lp/../../c/lp/../util/blob-types.h \
+ include/ndn-cpp/lite/encoding/../lp/../../c/lp/incoming-face-id-types.h \
+ include/ndn-cpp/lite/encoding/../lp/../../c/lp/../network-nack-types.h \
+ include/ndn-cpp/lite/encoding/../delegation-set-lite.hpp \
+ include/ndn-cpp/lite/encoding/../../c/delegation-set-types.h \
+ include/ndn-cpp/lite/encoding/../encrypt/encrypted-content-lite.hpp \
+ include/ndn-cpp/lite/encoding/../encrypt/../key-locator-lite.hpp \
+ include/ndn-cpp/lite/encoding/../encrypt/../../c/encrypt/encrypted-content-types.h \
+ include/ndn-cpp/lite/encoding/../encrypt/../../c/encrypt/algo/encrypt-params-types.h \
+ include/ndn-cpp/lite/encoding/../encrypt/../../c/encrypt/algo/../../util/blob-types.h \
+ include/ndn-cpp/lite/encoding/../encrypt/../../c/encrypt/../key-types.h \
+ include/ndn-cpp/lite/encoding/../util/dynamic-uint8-array-lite.hpp \
+ include/ndn-cpp/lite/encoding/../util/../../c/errors.h \
+ include/ndn-cpp/lite/encoding/../util/../../c/util/dynamic-uint8-array-types.h
+
+/usr/include/stdc-predef.h:
+
+src/lite/encoding/../../c/encoding/tlv-0_2-wire-format.h:
+
+include/ndn-cpp/c/common.h:
+
+include/ndn-cpp/c/../ndn-cpp-config.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/include/x86_64-linux-gnu/bits/wchar.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
+
+include/ndn-cpp/c/errors.h:
+
+include/ndn-cpp/lite/encoding/tlv-0_2-wire-format-lite.hpp:
+
+include/ndn-cpp/lite/encoding/../interest-lite.hpp:
+
+include/ndn-cpp/lite/encoding/../common-lite.hpp:
+
+include/ndn-cpp/lite/encoding/../exclude-lite.hpp:
+
+include/ndn-cpp/lite/encoding/../name-lite.hpp:
+
+include/ndn-cpp/lite/encoding/../../c/errors.h:
+
+include/ndn-cpp/lite/encoding/../util/blob-lite.hpp:
+
+include/ndn-cpp/lite/encoding/../util/../../c/util/blob-types.h:
+
+include/ndn-cpp/lite/encoding/../util/../../c/util/../common.h:
+
+include/ndn-cpp/lite/encoding/../../c/name-types.h:
+
+include/ndn-cpp/lite/encoding/../../c/util/blob-types.h:
+
+include/ndn-cpp/lite/encoding/../../c/interest-types.h:
+
+include/ndn-cpp/lite/encoding/../../c/name-types.h:
+
+include/ndn-cpp/lite/encoding/../../c/key-types.h:
+
+include/ndn-cpp/lite/encoding/../key-locator-lite.hpp:
+
+include/ndn-cpp/lite/encoding/../../c/key-types.h:
+
+include/ndn-cpp/lite/encoding/../data-lite.hpp:
+
+include/ndn-cpp/lite/encoding/../meta-info-lite.hpp:
+
+include/ndn-cpp/lite/encoding/../../c/data-types.h:
+
+include/ndn-cpp/lite/encoding/../../c/security/validity-period-types.h:
+
+include/ndn-cpp/lite/encoding/../../c/security/../common.h:
+
+include/ndn-cpp/lite/encoding/../signature-lite.hpp:
+
+include/ndn-cpp/lite/encoding/../security/validity-period-lite.hpp:
+
+include/ndn-cpp/lite/encoding/../security/../../c/security/validity-period-types.h:
+
+include/ndn-cpp/lite/encoding/../signature-lite.hpp:
+
+include/ndn-cpp/lite/encoding/../control-parameters-lite.hpp:
+
+include/ndn-cpp/lite/encoding/../forwarding-flags-lite.hpp:
+
+include/ndn-cpp/lite/encoding/../../c/forwarding-flags.h:
+
+include/ndn-cpp/lite/encoding/../../c/control-parameters-types.h:
+
+include/ndn-cpp/lite/encoding/../../c/common.h:
+
+include/ndn-cpp/lite/encoding/../../c/forwarding-flags.h:
+
+include/ndn-cpp/lite/encoding/../control-response-lite.hpp:
+
+include/ndn-cpp/lite/encoding/../control-parameters-lite.hpp:
+
+include/ndn-cpp/lite/encoding/../../c/control-response-types.h:
+
+include/ndn-cpp/lite/encoding/../../c/control-parameters-types.h:
+
+include/ndn-cpp/lite/encoding/../lp/lp-packet-lite.hpp:
+
+include/ndn-cpp/lite/encoding/../lp/../util/blob-lite.hpp:
+
+include/ndn-cpp/lite/encoding/../lp/incoming-face-id-lite.hpp:
+
+include/ndn-cpp/lite/encoding/../lp/../../c/lp/incoming-face-id-types.h:
+
+include/ndn-cpp/lite/encoding/../lp/../../c/lp/../common.h:
+
+include/ndn-cpp/lite/encoding/../lp/../network-nack-lite.hpp:
+
+include/ndn-cpp/lite/encoding/../lp/../../c/network-nack-types.h:
+
+include/ndn-cpp/lite/encoding/../lp/../../c/lp/lp-packet-types.h:
+
+include/ndn-cpp/lite/encoding/../lp/../../c/lp/../util/blob-types.h:
+
+include/ndn-cpp/lite/encoding/../lp/../../c/lp/incoming-face-id-types.h:
+
+include/ndn-cpp/lite/encoding/../lp/../../c/lp/../network-nack-types.h:
+
+include/ndn-cpp/lite/encoding/../delegation-set-lite.hpp:
+
+include/ndn-cpp/lite/encoding/../../c/delegation-set-types.h:
+
+include/ndn-cpp/lite/encoding/../encrypt/encrypted-content-lite.hpp:
+
+include/ndn-cpp/lite/encoding/../encrypt/../key-locator-lite.hpp:
+
+include/ndn-cpp/lite/encoding/../encrypt/../../c/encrypt/encrypted-content-types.h:
+
+include/ndn-cpp/lite/encoding/../encrypt/../../c/encrypt/algo/encrypt-params-types.h:
+
+include/ndn-cpp/lite/encoding/../encrypt/../../c/encrypt/algo/../../util/blob-types.h:
+
+include/ndn-cpp/lite/encoding/../encrypt/../../c/encrypt/../key-types.h:
+
+include/ndn-cpp/lite/encoding/../util/dynamic-uint8-array-lite.hpp:
+
+include/ndn-cpp/lite/encoding/../util/../../c/errors.h:
+
+include/ndn-cpp/lite/encoding/../util/../../c/util/dynamic-uint8-array-types.h:

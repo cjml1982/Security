@@ -1,0 +1,6 @@
+src/c/errors.lo: src/c/errors.c /usr/include/stdc-predef.h \
+ include/ndn-cpp/c/errors.h
+
+/usr/include/stdc-predef.h:
+
+include/ndn-cpp/c/errors.h:

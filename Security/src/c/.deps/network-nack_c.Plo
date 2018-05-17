@@ -1,0 +1,64 @@
+src/c/network-nack_c.lo: src/c/network-nack_c.c \
+ /usr/include/stdc-predef.h src/c/network-nack.h src/c/lp/lp-packet.h \
+ src/c/lp/../util/blob.h include/ndn-cpp/c/util/blob-types.h \
+ include/ndn-cpp/c/util/../common.h \
+ include/ndn-cpp/c/util/../../ndn-cpp-config.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h /usr/include/stdint.h \
+ /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
+ include/ndn-cpp/c/errors.h include/ndn-cpp/c/lp/lp-packet-types.h \
+ include/ndn-cpp/c/lp/../util/blob-types.h \
+ include/ndn-cpp/c/lp/incoming-face-id-types.h \
+ include/ndn-cpp/c/lp/../common.h \
+ include/ndn-cpp/c/lp/../network-nack-types.h \
+ include/ndn-cpp/c/network-nack-types.h
+
+/usr/include/stdc-predef.h:
+
+src/c/network-nack.h:
+
+src/c/lp/lp-packet.h:
+
+src/c/lp/../util/blob.h:
+
+include/ndn-cpp/c/util/blob-types.h:
+
+include/ndn-cpp/c/util/../common.h:
+
+include/ndn-cpp/c/util/../../ndn-cpp-config.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/include/x86_64-linux-gnu/bits/wchar.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
+
+include/ndn-cpp/c/errors.h:
+
+include/ndn-cpp/c/lp/lp-packet-types.h:
+
+include/ndn-cpp/c/lp/../util/blob-types.h:
+
+include/ndn-cpp/c/lp/incoming-face-id-types.h:
+
+include/ndn-cpp/c/lp/../common.h:
+
+include/ndn-cpp/c/lp/../network-nack-types.h:
+
+include/ndn-cpp/c/network-nack-types.h:

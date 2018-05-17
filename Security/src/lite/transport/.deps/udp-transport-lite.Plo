@@ -1,0 +1,109 @@
+src/lite/transport/udp-transport-lite.lo: \
+ src/lite/transport/udp-transport-lite.cpp /usr/include/stdc-predef.h \
+ include/ndn-cpp/ndn-cpp-config.h \
+ src/lite/transport/../../c/transport/udp-transport.h \
+ src/lite/transport/../../c/transport/socket-transport.h \
+ include/ndn-cpp/c/common.h include/ndn-cpp/c/../ndn-cpp-config.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h /usr/include/stdint.h \
+ /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
+ include/ndn-cpp/c/errors.h include/ndn-cpp/c/transport/transport-types.h \
+ include/ndn-cpp/c/transport/../encoding/element-reader-types.h \
+ include/ndn-cpp/c/transport/../encoding/../util/dynamic-uint8-array-types.h \
+ src/lite/transport/../../c/transport/../encoding/element-reader.h \
+ src/lite/transport/../../c/transport/../encoding/element-listener.h \
+ include/ndn-cpp/c/encoding/element-reader-types.h \
+ src/lite/transport/../../c/transport/../encoding/tlv/tlv-structure-decoder.h \
+ src/lite/transport/../../c/transport/../encoding/../util/dynamic-uint8-array.h \
+ src/lite/transport/../../c/transport/../encoding/../util/ndn_memory.h \
+ /usr/include/memory.h /usr/include/string.h /usr/include/xlocale.h \
+ /usr/include/x86_64-linux-gnu/bits/string3.h \
+ include/ndn-cpp/c/util/dynamic-uint8-array-types.h \
+ include/ndn-cpp/lite/transport/udp-transport-lite.hpp \
+ include/ndn-cpp/lite/transport/../../c/errors.h \
+ include/ndn-cpp/lite/transport/../../c/transport/transport-types.h \
+ include/ndn-cpp/lite/transport/../util/dynamic-uint8-array-lite.hpp \
+ include/ndn-cpp/lite/transport/../util/../../c/errors.h \
+ include/ndn-cpp/lite/transport/../util/../../c/util/dynamic-uint8-array-types.h \
+ include/ndn-cpp/lite/transport/../encoding/element-listener-lite.hpp \
+ include/ndn-cpp/lite/transport/../encoding/../../c/encoding/element-reader-types.h
+
+/usr/include/stdc-predef.h:
+
+include/ndn-cpp/ndn-cpp-config.h:
+
+src/lite/transport/../../c/transport/udp-transport.h:
+
+src/lite/transport/../../c/transport/socket-transport.h:
+
+include/ndn-cpp/c/common.h:
+
+include/ndn-cpp/c/../ndn-cpp-config.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/include/x86_64-linux-gnu/bits/wchar.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
+
+include/ndn-cpp/c/errors.h:
+
+include/ndn-cpp/c/transport/transport-types.h:
+
+include/ndn-cpp/c/transport/../encoding/element-reader-types.h:
+
+include/ndn-cpp/c/transport/../encoding/../util/dynamic-uint8-array-types.h:
+
+src/lite/transport/../../c/transport/../encoding/element-reader.h:
+
+src/lite/transport/../../c/transport/../encoding/element-listener.h:
+
+include/ndn-cpp/c/encoding/element-reader-types.h:
+
+src/lite/transport/../../c/transport/../encoding/tlv/tlv-structure-decoder.h:
+
+src/lite/transport/../../c/transport/../encoding/../util/dynamic-uint8-array.h:
+
+src/lite/transport/../../c/transport/../encoding/../util/ndn_memory.h:
+
+/usr/include/memory.h:
+
+/usr/include/string.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/x86_64-linux-gnu/bits/string3.h:
+
+include/ndn-cpp/c/util/dynamic-uint8-array-types.h:
+
+include/ndn-cpp/lite/transport/udp-transport-lite.hpp:
+
+include/ndn-cpp/lite/transport/../../c/errors.h:
+
+include/ndn-cpp/lite/transport/../../c/transport/transport-types.h:
+
+include/ndn-cpp/lite/transport/../util/dynamic-uint8-array-lite.hpp:
+
+include/ndn-cpp/lite/transport/../util/../../c/errors.h:
+
+include/ndn-cpp/lite/transport/../util/../../c/util/dynamic-uint8-array-types.h:
+
+include/ndn-cpp/lite/transport/../encoding/element-listener-lite.hpp:
+
+include/ndn-cpp/lite/transport/../encoding/../../c/encoding/element-reader-types.h:

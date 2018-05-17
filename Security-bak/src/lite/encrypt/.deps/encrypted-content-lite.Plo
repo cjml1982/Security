@@ -1,0 +1,102 @@
+src/lite/encrypt/encrypted-content-lite.lo: \
+ src/lite/encrypt/encrypted-content-lite.cpp /usr/include/stdc-predef.h \
+ src/lite/encrypt/../../c/encrypt/encrypted-content.h \
+ include/ndn-cpp/c/encrypt/encrypted-content-types.h \
+ include/ndn-cpp/c/encrypt/algo/encrypt-params-types.h \
+ include/ndn-cpp/c/encrypt/algo/../../util/blob-types.h \
+ include/ndn-cpp/c/encrypt/algo/../../util/../common.h \
+ include/ndn-cpp/c/encrypt/algo/../../util/../../ndn-cpp-config.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h /usr/include/stdint.h \
+ /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
+ include/ndn-cpp/c/encrypt/../key-types.h \
+ include/ndn-cpp/c/encrypt/../name-types.h \
+ include/ndn-cpp/c/encrypt/../util/blob-types.h \
+ src/lite/encrypt/../../c/encrypt/../key-locator.h \
+ include/ndn-cpp/c/key-types.h src/lite/encrypt/../../c/encrypt/../name.h \
+ include/ndn-cpp/c/name-types.h include/ndn-cpp/c/errors.h \
+ src/lite/encrypt/../../c/encrypt/../util/blob.h \
+ include/ndn-cpp/c/util/blob-types.h \
+ include/ndn-cpp/lite/encrypt/encrypted-content-lite.hpp \
+ include/ndn-cpp/lite/encrypt/../key-locator-lite.hpp \
+ include/ndn-cpp/lite/encrypt/../name-lite.hpp \
+ include/ndn-cpp/lite/encrypt/../../c/errors.h \
+ include/ndn-cpp/lite/encrypt/../util/blob-lite.hpp \
+ include/ndn-cpp/lite/encrypt/../util/../../c/util/blob-types.h \
+ include/ndn-cpp/lite/encrypt/../../c/name-types.h \
+ include/ndn-cpp/lite/encrypt/../../c/key-types.h \
+ include/ndn-cpp/lite/encrypt/../../c/encrypt/encrypted-content-types.h
+
+/usr/include/stdc-predef.h:
+
+src/lite/encrypt/../../c/encrypt/encrypted-content.h:
+
+include/ndn-cpp/c/encrypt/encrypted-content-types.h:
+
+include/ndn-cpp/c/encrypt/algo/encrypt-params-types.h:
+
+include/ndn-cpp/c/encrypt/algo/../../util/blob-types.h:
+
+include/ndn-cpp/c/encrypt/algo/../../util/../common.h:
+
+include/ndn-cpp/c/encrypt/algo/../../util/../../ndn-cpp-config.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/include/x86_64-linux-gnu/bits/wchar.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
+
+include/ndn-cpp/c/encrypt/../key-types.h:
+
+include/ndn-cpp/c/encrypt/../name-types.h:
+
+include/ndn-cpp/c/encrypt/../util/blob-types.h:
+
+src/lite/encrypt/../../c/encrypt/../key-locator.h:
+
+include/ndn-cpp/c/key-types.h:
+
+src/lite/encrypt/../../c/encrypt/../name.h:
+
+include/ndn-cpp/c/name-types.h:
+
+include/ndn-cpp/c/errors.h:
+
+src/lite/encrypt/../../c/encrypt/../util/blob.h:
+
+include/ndn-cpp/c/util/blob-types.h:
+
+include/ndn-cpp/lite/encrypt/encrypted-content-lite.hpp:
+
+include/ndn-cpp/lite/encrypt/../key-locator-lite.hpp:
+
+include/ndn-cpp/lite/encrypt/../name-lite.hpp:
+
+include/ndn-cpp/lite/encrypt/../../c/errors.h:
+
+include/ndn-cpp/lite/encrypt/../util/blob-lite.hpp:
+
+include/ndn-cpp/lite/encrypt/../util/../../c/util/blob-types.h:
+
+include/ndn-cpp/lite/encrypt/../../c/name-types.h:
+
+include/ndn-cpp/lite/encrypt/../../c/key-types.h:
+
+include/ndn-cpp/lite/encrypt/../../c/encrypt/encrypted-content-types.h:

@@ -1,0 +1,7 @@
+src/security/identity/osx-private-key-storage.lo: \
+ src/security/identity/osx-private-key-storage.cpp \
+ /usr/include/stdc-predef.h include/ndn-cpp/ndn-cpp-config.h
+
+/usr/include/stdc-predef.h:
+
+include/ndn-cpp/ndn-cpp-config.h:

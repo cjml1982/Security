@@ -1,0 +1,15 @@
+src/lite/forwarding-flags-lite.lo: src/lite/forwarding-flags-lite.cpp \
+ /usr/include/stdc-predef.h src/lite/../c/forwarding-flags-impl.h \
+ include/ndn-cpp/c/forwarding-flags.h \
+ include/ndn-cpp/lite/forwarding-flags-lite.hpp \
+ include/ndn-cpp/lite/../c/forwarding-flags.h
+
+/usr/include/stdc-predef.h:
+
+src/lite/../c/forwarding-flags-impl.h:
+
+include/ndn-cpp/c/forwarding-flags.h:
+
+include/ndn-cpp/lite/forwarding-flags-lite.hpp:
+
+include/ndn-cpp/lite/../c/forwarding-flags.h:

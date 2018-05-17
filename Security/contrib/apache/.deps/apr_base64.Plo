@@ -1,0 +1,6 @@
+contrib/apache/apr_base64.lo: contrib/apache/apr_base64.c \
+ /usr/include/stdc-predef.h contrib/apache/apr_base64.h
+
+/usr/include/stdc-predef.h:
+
+contrib/apache/apr_base64.h:

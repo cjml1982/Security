@@ -1,0 +1,62 @@
+src/lite/encrypt/algo/encrypt-params-lite.lo: \
+ src/lite/encrypt/algo/encrypt-params-lite.cpp /usr/include/stdc-predef.h \
+ src/lite/encrypt/algo/../../../c/encrypt/algo/encrypt-params.h \
+ include/ndn-cpp/c/encrypt/algo/encrypt-params-types.h \
+ include/ndn-cpp/c/encrypt/algo/../../util/blob-types.h \
+ include/ndn-cpp/c/encrypt/algo/../../util/../common.h \
+ include/ndn-cpp/c/encrypt/algo/../../util/../../ndn-cpp-config.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h /usr/include/stdint.h \
+ /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
+ src/lite/encrypt/algo/../../../c/encrypt/algo/../../util/blob.h \
+ include/ndn-cpp/c/util/blob-types.h \
+ include/ndn-cpp/lite/encrypt/algo/encrypt-params-lite.hpp \
+ include/ndn-cpp/lite/encrypt/algo/../../util/blob-lite.hpp \
+ include/ndn-cpp/lite/encrypt/algo/../../util/../../c/util/blob-types.h \
+ include/ndn-cpp/lite/encrypt/algo/../../../c/encrypt/algo/encrypt-params-types.h
+
+/usr/include/stdc-predef.h:
+
+src/lite/encrypt/algo/../../../c/encrypt/algo/encrypt-params.h:
+
+include/ndn-cpp/c/encrypt/algo/encrypt-params-types.h:
+
+include/ndn-cpp/c/encrypt/algo/../../util/blob-types.h:
+
+include/ndn-cpp/c/encrypt/algo/../../util/../common.h:
+
+include/ndn-cpp/c/encrypt/algo/../../util/../../ndn-cpp-config.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/include/x86_64-linux-gnu/bits/wchar.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
+
+src/lite/encrypt/algo/../../../c/encrypt/algo/../../util/blob.h:
+
+include/ndn-cpp/c/util/blob-types.h:
+
+include/ndn-cpp/lite/encrypt/algo/encrypt-params-lite.hpp:
+
+include/ndn-cpp/lite/encrypt/algo/../../util/blob-lite.hpp:
+
+include/ndn-cpp/lite/encrypt/algo/../../util/../../c/util/blob-types.h:
+
+include/ndn-cpp/lite/encrypt/algo/../../../c/encrypt/algo/encrypt-params-types.h:

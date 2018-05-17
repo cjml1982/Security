@@ -1,0 +1,96 @@
+src/c/encoding/tlv/tlv-structure-decoder.lo: \
+ src/c/encoding/tlv/tlv-structure-decoder.c /usr/include/stdc-predef.h \
+ src/c/encoding/tlv/../../util/ndn_memory.h include/ndn-cpp/c/common.h \
+ include/ndn-cpp/c/../ndn-cpp-config.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h /usr/include/stdint.h \
+ /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h /usr/include/memory.h \
+ /usr/include/string.h /usr/include/xlocale.h \
+ /usr/include/x86_64-linux-gnu/bits/string.h \
+ /usr/include/x86_64-linux-gnu/bits/string2.h /usr/include/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap-16.h /usr/include/stdlib.h \
+ /usr/include/x86_64-linux-gnu/bits/string3.h src/c/encoding/tlv/tlv.h \
+ src/c/encoding/tlv/tlv-decoder.h include/ndn-cpp/c/errors.h \
+ src/c/encoding/tlv/../../util/blob.h include/ndn-cpp/c/util/blob-types.h \
+ include/ndn-cpp/c/util/../common.h \
+ src/c/encoding/tlv/tlv-structure-decoder.h \
+ include/ndn-cpp/c/encoding/element-reader-types.h \
+ include/ndn-cpp/c/encoding/../util/dynamic-uint8-array-types.h
+
+/usr/include/stdc-predef.h:
+
+src/c/encoding/tlv/../../util/ndn_memory.h:
+
+include/ndn-cpp/c/common.h:
+
+include/ndn-cpp/c/../ndn-cpp-config.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/include/x86_64-linux-gnu/bits/wchar.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
+
+/usr/include/memory.h:
+
+/usr/include/string.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/x86_64-linux-gnu/bits/string.h:
+
+/usr/include/x86_64-linux-gnu/bits/string2.h:
+
+/usr/include/endian.h:
+
+/usr/include/x86_64-linux-gnu/bits/endian.h:
+
+/usr/include/x86_64-linux-gnu/bits/byteswap.h:
+
+/usr/include/x86_64-linux-gnu/bits/types.h:
+
+/usr/include/x86_64-linux-gnu/bits/typesizes.h:
+
+/usr/include/x86_64-linux-gnu/bits/byteswap-16.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/x86_64-linux-gnu/bits/string3.h:
+
+src/c/encoding/tlv/tlv.h:
+
+src/c/encoding/tlv/tlv-decoder.h:
+
+include/ndn-cpp/c/errors.h:
+
+src/c/encoding/tlv/../../util/blob.h:
+
+include/ndn-cpp/c/util/blob-types.h:
+
+include/ndn-cpp/c/util/../common.h:
+
+src/c/encoding/tlv/tlv-structure-decoder.h:
+
+include/ndn-cpp/c/encoding/element-reader-types.h:
+
+include/ndn-cpp/c/encoding/../util/dynamic-uint8-array-types.h:

@@ -1,0 +1,11 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+includedir=${prefix}/include
+libdir=${exec_prefix}/lib
+
+Name: NDN-CPP
+Description: NDN Client Library for C++ and C
+URL: https://github.com/named-data/ndn-cpp
+Version: 0.11
+Cflags: -I${includedir}
+Libs: -L${libdir} -lndn-cpp
